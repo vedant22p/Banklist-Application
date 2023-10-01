@@ -110,14 +110,7 @@ int main()
 - All input validations are done .
 - No memory leakage in run-time all dynamic memory is deallocated.
 
-# 🤝 Contributing
 
-Feel Free to contribute.
-If you want to add some features and resolve any issues then just fork the repository. To want to change the code only in the one [main.cpp]() file then create `pull-request` to the master branch. I will review it and then i merge it to the branch. And same for the main branch also.
-
-# Author
-
-### 👨‍💻 Muhib Arshad
 
    <div align="center">
 <p align="center">Let's connect!</p>
