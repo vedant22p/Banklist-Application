@@ -1,13 +1,6 @@
 <h1 align="center" style="font-size: 52px;" > Welcome to BANKIST APPLICATION  👋</h1>
 
-![GitHub top language](https://img.shields.io/github/languages/top/muhib7353/Salik-Bank-Limited?logo=c%2B%2B&style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/muhib7353/Salik-Bank-Limited)
-![GitHub](https://img.shields.io/github/license/muhib7353/Salik-Bank-Limited)
-![GitHub followers](https://img.shields.io/github/followers/muhib7353?logo=Github&style=flat-square)
-![GitHub User's stars](https://img.shields.io/github/stars/muhib7353?logo=Github&style=flat-square)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/muhib7353/Salik-Bank-Limited?logo=git)
-![GitHub last commit](https://img.shields.io/github/last-commit/muhib7353/Salik-Bank-Limited?logo=git)
-![GitHub language count](https://img.shields.io/github/languages/count/muhib7353/Salik-Bank-Limited?logo=c%2B%2B)
+
 
 > Bankist application in `C++` by using `DYNAMIC MEMPRY ALLOCATION` and `OBJECT_ORIENTED_PROGRAMMING` concepts. Its main features are login system, user authentication ,create a new account , requesting loan , transfer money, sort your movements , currency converter , delete your account and log out system .
 
@@ -160,16 +153,3 @@ If you want to add some features and resolve any issues then just fork the repos
 ## Show your support
 
 Please ⭐️ this repository if this project helped you!
-
-You can also follow my GitHub Profile to stay updated:
-<a href="https://github.com/muhib7353" target="blank">
-@muhib7353
-</a>
-
-
-## 📝 License
-
-Copyright © 2022 [Muhib Arshad](https://github.com/muhib7353). 
-
-
-This project is [MIT](https://github.com/muhib7353/Salik-Bank-Limited/blob/main/LICENSE) licensed.
